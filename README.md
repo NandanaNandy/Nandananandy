@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nandana</h1>
+<h1 align="center">This is Nandana D</h1>
 <h3 align="center">SIH 2024 Finalist | AI & Data Science Enthusiast | Lead of Competitive Programming Club | Python & IDP Specialist | Innovating with AI for Smarter Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandananandy&label=Profile%20views&color=0e75b6&style=flat" alt="nandananandy" /> </p>
@@ -6,7 +6,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nandanad1594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandanad1594" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nandanad1594" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nandanad1594" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nandana__d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nandana__d" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/nandana_nandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nandana_nandy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
