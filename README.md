@@ -1,3 +1,4 @@
+<h1 align="center">I'm Nandana D</h1>
 <h3 align="center">SIH 2024 Finalist | AI & Data Science Enthusiast | Lead of Competitive Programming Club | Python & IDP Specialist | Innovating with AI for Smarter Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandananandy&label=Profile%20views&color=0e75b6&style=flat" alt="nandananandy" /> </p>
