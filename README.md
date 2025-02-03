@@ -1,4 +1,3 @@
-<h1 align="center">Nandana D AI & Data Science Enthusiast | Competitive Programmer | Tech Innovator I'm a 3rd-year BTech student majoring in Artificial Intelligence & Data Science, passionate about leveraging technology to solve complex problems. I specialize in Python development, Intelligent Document Processing, and Data Analytics.</h1>
 <h3 align="center">SIH 2024 Finalist | AI & Data Science Enthusiast | Lead of Competitive Programming Club | Python & IDP Specialist | Innovating with AI for Smarter Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandananandy&label=Profile%20views&color=0e75b6&style=flat" alt="nandananandy" /> </p>
