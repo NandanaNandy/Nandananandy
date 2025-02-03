@@ -1,12 +1,13 @@
-<h1 align="center">This is Nandana D</h1>
+<h1 align="center">Nandana D AI & Data Science Enthusiast | Competitive Programmer | Tech Innovator I'm a 3rd-year BTech student majoring in Artificial Intelligence & Data Science, passionate about leveraging technology to solve complex problems. I specialize in Python development, Intelligent Document Processing, and Data Analytics.</h1>
 <h3 align="center">SIH 2024 Finalist | AI & Data Science Enthusiast | Lead of Competitive Programming Club | Python & IDP Specialist | Innovating with AI for Smarter Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandananandy&label=Profile%20views&color=0e75b6&style=flat" alt="nandananandy" /> </p>
 
+- 👨‍💻 All of my projects are available at [https://nandananandy.github.io/My_Portfolio/](https://nandananandy.github.io/My_Portfolio/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nandanad1594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandanad1594" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nandanad1594" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nandanad1594" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nandana__d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nandana__d" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nandana_nandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nandana_nandy" height="30" width="40" /></a>
 </p>
@@ -17,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandananandy&show_icons=true&locale=en&layout=compact" alt="nandananandy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandananandy&show_icons=true&locale=en" alt="nandananandy" /></p>
-
-
