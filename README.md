@@ -1,20 +1,44 @@
-<h1 align="center">I'm Nandana D</h1>
-<h3 align="center">SIH 2024 Finalist | AI & Data Science Enthusiast | Lead of Competitive Programming Club | Python & IDP Specialist | Innovating with AI for Smarter Solutions</h3>
+<h1 align="center">Hi 👋, I'm Nandana D</h1>
+<h3 align="center">Software Engineer (Operations Research) | SIH 2024 Finalist | AI & Data Science Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nandananandy&label=Profile%20views&color=0e75b6&style=flat" alt="nandananandy" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://nandananandy.github.io/My_Portfolio/](https://nandananandy.github.io/My_Portfolio/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nandanad1594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandanad1594" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nandana__d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nandana__d" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nandana_nandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nandana_nandy" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nandananandy&label=Profile%20views&color=0e75b6&style=flat" alt="nandananandy" />
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/nandanad1594" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandanad1594" height="20" width="25" /></a>
+  <a href="https://www.leetcode.com/nandana__d" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nandana__d" height="20" width="25" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/nandana_nandy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nandana_nandy" height="20" width="25" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandananandy&show_icons=true&locale=en&layout=compact" alt="nandananandy" /></p>
+### 🚀 Professional Snapshot
+- 🔭 **Focus:** Optimizing Terminal Logistics through Real-Time Engines (RTE) and Yard Selection Logic.
+- 🎓 **Education:** B.Tech in AI & Data Science (9.1 CGPA) | Lead of the Competitive Programming Club.
+- 🏆 **Achievements:** Smart India Hackathon 2024 Finalist & Queen Bee Hackathon Winner.
+- 📂 **Portfolio:** [Visit My Portfolio](https://nandananandy.github.io/My_Portfolio/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandananandy&show_icons=true&locale=en" alt="nandananandy" /></p>
+---
+
+### 🛠 Tech Stack & Critical Analysis
+
+| Category | Tools & Languages | Technical Trade-offs (The "Cons") |
+| :--- | :--- | :--- |
+| **Languages** | Python, Java, C++ | **Python:** GIL limits multi-threading performance; **Java:** Verbose boilerplate & high memory footprint. |
+| **AI / CV** | YOLOv8, PyTorch, OpenCV | **YOLOv8:** Precision drops with very small/distant objects; **OpenCV:** Resource-heavy without GPU acceleration. |
+| **Databases** | MongoDB, PostgreSQL | **MongoDB:** High memory usage for large indexes; **PostgreSQL:** Vertical scaling limits compared to NoSQL. |
+| **Web Tech** | Node.js, React, MERN | **Node.js:** Single-threaded nature can bottleneck heavy computational tasks (OR algorithms). |
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandananandy&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="nandananandy" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nandananandy&show_icons=true&locale=en&theme=vision-friendly-dark" alt="nandananandy" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandananandy&theme=vision-friendly-dark" alt="nandananandy" />
+</p>
+
+---
